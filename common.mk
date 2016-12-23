@@ -89,7 +89,7 @@ PRODUCT_PACKAGES += \
 
 # Charger
 PRODUCT_PACKAGES += \
-    charger \
+    charger
 
 # MFC API
 PRODUCT_PACKAGES += \
