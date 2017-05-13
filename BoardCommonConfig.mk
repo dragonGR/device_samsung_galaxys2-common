@@ -54,6 +54,9 @@ BOARD_KERNEL_BASE := 0x40000000
 BOARD_KERNEL_CMDLINE := console=ttySAC2,115200 consoleblank=0
 TARGET_NEEDS_PLATFORM_TEXT_RELOCATIONS := true
 
+# AAPT
+TARGET_WANTS_AAPT_COMPRESS := true
+
 # Include an expanded selection of fonts
 EXTENDED_FONT_FOOTPRINT := true
 
