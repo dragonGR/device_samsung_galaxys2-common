@@ -57,6 +57,9 @@ TARGET_NEEDS_PLATFORM_TEXT_RELOCATIONS := true
 # AAPT
 TARGET_WANTS_AAPT_COMPRESS := true
 
+# Enable real time lockscreen charging current values
+BOARD_GLOBAL_CFLAGS += -DBATTERY_REAL_INFO
+
 # Include an expanded selection of fonts
 EXTENDED_FONT_FOOTPRINT := true
 
