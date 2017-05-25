@@ -88,7 +88,7 @@ PRODUCT_PACKAGES += \
     gralloc.exynos4 \
     hwcomposer.exynos4 \
     libnetcmdiface \
-    lights.exynos4 \
+    lights.smdk4210 \
     libhwconverter \
     libs5pjpeg \
     libfimg \
