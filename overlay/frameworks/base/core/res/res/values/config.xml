@@ -189,8 +189,4 @@
 
     <!-- Use wakelock for flashlight -->
     <bool name="config_useWakeLockForFlashlight">true</bool>
-
-    <!-- Enable button brightness -->
-    <bool name="config_deviceHasVariableButtonBrightness">true</bool>
-
 </resources>
