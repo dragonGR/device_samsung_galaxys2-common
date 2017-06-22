@@ -75,7 +75,6 @@ PRODUCT_PACKAGES += \
 
 # Audio Packages
 PRODUCT_PACKAGES += \
-    AdvancedDisplay \
     audio.primary.exynos4 \
     audio.a2dp.default \
     audio.r_submix.default \
